@@ -1,0 +1,7 @@
+@CHARSET "Shift_JIS";
+
+.SorryJapaneseOnly{
+	font-family: Consolas, 'Courier New', Courier, Monaco, monospace;
+	font-size: 36px;
+	line-height: 1.2;
+}
