@@ -5,14 +5,14 @@ window.onload = function() {
 	
 	var setTimer = setInterval(function() {
 	
-		let dest = "Sorry, Japanese Only!";
-		let str = '';
+		var dest = "Sorry, Japanese Only!";
+		var str = '';
 		
-		let c = "abcdefghijklmnopqrstuvwxyz0123456789";
+		var c = "abcdefghijklmnopqrstuvwxyz0123456789";
 		if(count > 0){
 			str += dest.substr(0, count);
 		}
-		for(let i = count; i < dest.length; ++i){
+		for(var i = count; i < dest.length; ++i){
 			str += c[Math.floor(Math.random()*c.length)];
 		}
 		if(count > dest.length){
