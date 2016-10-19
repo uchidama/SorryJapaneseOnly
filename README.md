@@ -12,8 +12,8 @@ Sorry,Japanese Only!をアニメーションで表示するJavaScript。
 基本的には、test/index.htmlを見ていただければ、ある程度わかるかと思います。  
   
 ### 必要なJavaScript
-&lt;script type="text/javascript" src="http://code.jquery.com/jquery-3.1.0.min.js">&lt;/script>  
-&lt;script type="text/javascript" src="../src/SorryJapaneseOnly.js">&lt;/script>  
+&lt;script type="text/javascript" src="http://code.jquery.com/jquery-3.1.0.min.js"> &lt;/script>  
+&lt;script type="text/javascript" src="../src/SorryJapaneseOnly.js"> &lt;/script>  
 jqueryをSorryJapaneseOnly.jsで使っているので、読み込んでください。  
   
 ### 必要なcss
