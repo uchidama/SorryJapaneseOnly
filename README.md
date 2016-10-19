@@ -6,7 +6,8 @@ Sorry,Japanese Only!をアニメーションで表示するJavaScript。
 [![https://gyazo.com/4a998880372e950f98bac8bf34fd92b2](https://i.gyazo.com/4a998880372e950f98bac8bf34fd92b2.gif)](https://gyazo.com/4a998880372e950f98bac8bf34fd92b2)
   
 ## 使用例
-[アキバ系!電脳空間カウボーイズZ](http://keith.weblogs.jp/cyberspace/)
+[アキバ系!電脳空間カウボーイズZ](http://keith.weblogs.jp/cyberspace/)  
+<https://shinishimaru.github.io/SorryJapaneseOnly/test/index.html>  
 
 ## 使い方
 基本的には、test/index.htmlを見ていただければ、ある程度わかるかと思います。  
